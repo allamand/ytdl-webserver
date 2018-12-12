@@ -5,6 +5,7 @@ If you have questions, read the [blog post](https://blog.rphl.io/selfhosted-yout
 ![Demovideo](http://imgur.com/iEpA1oQ.gif)
 
 
+
 ## Installation
 ### As a server
 ``` bash
@@ -33,6 +34,13 @@ To start contributing you only have to run one command.
 npm run dev
 ```
 This will start webpack and a dev server on `localhost:8080`
+
+## Direct use of youtube-dl
+
+```
+brew install youtube-dl
+brew install libav
+```
 
 ## License
 MIT
